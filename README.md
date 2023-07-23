@@ -71,3 +71,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+This is just a practise of nest Js MongoDB connectio  using below tutorial [this](https://medium.com/globant/crud-application-using-nestjs-and-mongodb-99a0756adb76)
